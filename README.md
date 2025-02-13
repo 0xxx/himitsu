@@ -1,2 +1,2 @@
-# Mojo
-learning Mojo  &lt;3
+# himitsu
+passwd / vault automation
